@@ -1,0 +1,16 @@
+LLM(GEN AI)
+
+1. Foundation Model *
+2. Fine-Tuning LLM Model with Quantization, LoRA&QLoRA *
+3. Retrieval Augmented Generation (RAG) *
+4. Hugging Face *
+5. Crew AI *
+6. Groq 
+7. Stable Diffusion
+8. GitHub Copilot
+9. Zero-Shot Prompting *
+10. Few-Shot Prompting *
+11. Falcon
+12. Mistral 7B
+13. LlamaIndex
+14. FastAPI *
